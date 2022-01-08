@@ -1,0 +1,16 @@
+{
+    "name": "user/test-cms",
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZhulaiIvan",
+            "email": "zhulaiivan.dnipro@gmail.com"
+        }
+    ],
+    "require": {}
+}
